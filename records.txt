@@ -1,0 +1,6 @@
+第一部分工作 Stage I：
+改su为jojo
+改MagiskHide为JoiskHide
+改com.topjohnwu.magisk com.topjohnwu.shared 为 com.brightsight.joker com.brightsight.shared
+确保插件部分一直工作 
+第一阶段完成，版本为 c59f-StageI-t3.apk
